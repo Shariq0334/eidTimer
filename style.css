@@ -1,0 +1,24 @@
+body {
+    background-image: url("download.jpg");
+}
+
+#count {
+color: aliceblue;
+display: flex;
+justify-content: center;
+font-size: 30px;
+
+background-color: black;
+}
+h1 {
+    color: aliceblue;
+
+}
+
+#time {
+    color: aliceblue;
+    display: flex;
+justify-content: center;
+font-size: 50px;
+background-color: black;
+}
